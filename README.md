@@ -1,4 +1,4 @@
-# Omnipay
+# Omnipay.
 
 **An easy to use, consistent payment processing library for PHP 5.3+**
 
